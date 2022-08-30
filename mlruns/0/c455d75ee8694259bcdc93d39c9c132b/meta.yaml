@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Navin/Mlflow/testMlflow/testMlflow/mlruns/0/c455d75ee8694259bcdc93d39c9c132b/artifacts
+end_time: 1661842249891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: c455d75ee8694259bcdc93d39c9c132b
+run_uuid: c455d75ee8694259bcdc93d39c9c132b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661842247113
+status: 3
+tags: []
+user_id: SEAB.Navin
